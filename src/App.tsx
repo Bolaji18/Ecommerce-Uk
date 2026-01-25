@@ -4,6 +4,7 @@ import Header from './Ruth'
 import Hero from './Rinah'
 import Card from './cards'
 import Products from './commerce'
+import Movies from './movies'
 
 function App() {
  
@@ -12,6 +13,7 @@ function App() {
     <>
       <Header/>
       <Hero/>
+      <Movies/>
       <Card/>
       <Products/>
     </>
